@@ -1,0 +1,59 @@
+/* -- custom css for file login.html -- */
+
+/* -- page-content bg-color-white -- */
+#obj-1354 {
+	height: 800px;
+}
+
+/* -- img w-100 img-fluid -- */
+#obj-1355 {
+	height: 200px;
+}
+
+/* -- block-title -- */
+#obj-1356 {
+	color: rgb(50, 87, 237);
+	 margin-top: 55px;
+	 font-size: 24px;
+	 height: 28px;
+}
+
+/* -- chip chip-outline mt-4 -- */
+#obj-1360 {
+	width: 300px;
+	 margin-left: 60px;
+	 height: 40px;
+	 color: rgb(108, 108, 108);
+}
+
+/* -- chip chip-outline mt-3 -- */
+#chip-1362 {
+	height: 40px;
+	 margin-left: 60px;
+	 width: 300px;
+	 color: rgb(108, 108, 108);
+}
+
+/* -- link bg-color-white mt-4 font-underline -- */
+#a-1371 {
+	color: rgb(255, 0, 0);
+	 margin-left: 240px;
+}
+
+/* -- col button button-outline button-round button-fill mt-5 -- */
+#obj-1359 {
+	height: 40px;
+	 background-color: rgb(50, 87, 237);
+	 margin-left: 70px;
+	 width: 270px;
+}
+
+/* -- col button bg-color-white button-outline button-round button-fill mt-4 -- */
+#obj-1373 {
+	height: 40px;
+	 background-color: rgb(50, 87, 237);
+	 margin-left: 70px;
+	 width: 270px;
+	 color: rgb(38, 59, 231);
+}
+
